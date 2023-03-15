@@ -49,3 +49,6 @@
 - Rust accomplishes this by performing monomorphization of the code using generics at compile time. Monomorphization is the process of turning generic code into specific code by filling in the concrete types that are used when compiled.
 </h6>
 
+### Traits (ShARED Behaviour) Ti    NGLE
+- 
+
