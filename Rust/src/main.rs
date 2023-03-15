@@ -1,9 +1,11 @@
 mod strings;
 mod ownership;
+mod structs;
 
 fn main(){
 //    strings::run();
-    ownership::run();
+    // ownership::run();
+    structs::run();
 }
 
 
